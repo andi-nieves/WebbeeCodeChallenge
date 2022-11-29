@@ -1,6 +1,6 @@
 
 import React from 'react'
-import { ScrollView, View, StyleSheet } from 'react-native'
+import { View, StyleSheet } from 'react-native'
 import Typo from './Typo';
 
 export default ({children, title}: any) => <View style={style.container}>

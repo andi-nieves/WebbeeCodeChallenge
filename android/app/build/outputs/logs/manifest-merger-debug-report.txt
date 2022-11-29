@@ -9,6 +9,8 @@ MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\andif\.gradle\caches
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] C:\Users\andif\.gradle\caches\transforms-3\e32b7eeb3398efff4e100fae60e161ae\transformed\jetified-flipper-network-plugin-0.125.0\AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\andif\.gradle\caches\transforms-3\d00cb5af49214c127447117a850c65b4\transformed\jetified-flipper-fresco-plugin-0.125.0\AndroidManifest.xml:8:1-15:12
 MERGED from [:react-native-vector-icons] C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-async-storage_async-storage] C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-masked-view_masked-view] C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\@react-native-masked-view\masked-view\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-gesture-handler] C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-pager-view] C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\react-native-pager-view\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
@@ -103,6 +105,8 @@ application
 ADDED from C:\Users\andif\Workspace\WebbeeCodeChallenge\android\app\src\main\AndroidManifest.xml:6:5-25:19
 MERGED from C:\Users\andif\Workspace\WebbeeCodeChallenge\android\app\src\main\AndroidManifest.xml:6:5-25:19
 MERGED from C:\Users\andif\Workspace\WebbeeCodeChallenge\android\app\src\main\AndroidManifest.xml:6:5-25:19
+MERGED from [:react-native-community_datetimepicker] C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-20
+MERGED from [:react-native-community_datetimepicker] C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.react:react-native:0.70.6] C:\Users\andif\.gradle\caches\transforms-3\0b825f9a3cd84cf1738e48fbfed11fea\transformed\jetified-react-native-0.70.6-debug\AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.react:react-native:0.70.6] C:\Users\andif\.gradle\caches\transforms-3\0b825f9a3cd84cf1738e48fbfed11fea\transformed\jetified-react-native-0.70.6-debug\AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.soloader:soloader:0.10.4] C:\Users\andif\.gradle\caches\transforms-3\87826452408345e9fcde9828ee0fb34c\transformed\jetified-soloader-0.10.4\AndroidManifest.xml:11:5-20
@@ -181,6 +185,10 @@ MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\andif\
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\andif\.gradle\caches\transforms-3\d00cb5af49214c127447117a850c65b4\transformed\jetified-flipper-fresco-plugin-0.125.0\AndroidManifest.xml:11:5-13:41
 MERGED from [:react-native-vector-icons] C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-vector-icons] C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-masked-view_masked-view] C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\@react-native-masked-view\masked-view\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-masked-view_masked-view] C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\@react-native-masked-view\masked-view\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-gesture-handler] C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41

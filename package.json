@@ -10,6 +10,8 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.17.11",
+    "@react-native-community/datetimepicker": "^6.7.1",
     "@react-native-masked-view/masked-view": "^0.2.8",
     "@react-navigation/bottom-tabs": "^6.4.0",
     "@react-navigation/drawer": "^6.5.1",
@@ -19,10 +21,12 @@
     "@reduxjs/toolkit": "^1.9.0",
     "formik": "^2.2.9",
     "lodash": "^4.17.21",
+    "moment": "^2.29.4",
     "react": "18.1.0",
     "react-native": "0.70.6",
     "react-native-gesture-handler": "^2.8.0",
     "react-native-input-outline": "^1.5.2",
+    "react-native-modal-datetime-picker": "^14.0.0",
     "react-native-pager-view": "^6.1.0",
     "react-native-popup-menu": "^0.16.1",
     "react-native-reanimated": "^2.13.0",
@@ -30,7 +34,8 @@
     "react-native-screens": "^3.18.2",
     "react-native-tab-view": "^3.3.0",
     "react-native-vector-icons": "^9.2.0",
-    "react-redux": "^8.0.5"
+    "react-redux": "^8.0.5",
+    "redux-persist": "^6.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",

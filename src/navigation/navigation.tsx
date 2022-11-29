@@ -12,10 +12,10 @@ const Stack = createNativeStackNavigator();
 const Drawer = createDrawerNavigator();
 
 function DrawerNav() {
-  const categories = useAppSelector(state => state.categories);
+  const { types } = useAppSelector(state => state.categories);
   return <Drawer.Navigator>
     <Drawer.Screen name="Dashboard" component={Home} />
-    {categories.types.map((category: any) => <Drawer.Screen key={category.id} name={category.name} component={CategoryView} />)}
+    {types.map((category: any) => <Drawer.Screen key={category?.id} initialParams={{ id: category.id }} name={`${category.name ||'Unnamed'}`} component={CategoryView} />)}
     <Drawer.Screen name="Manage Categories" component={Home} />
 </Drawer.Navigator>
 }
@@ -32,6 +32,6 @@ const MainNavigation = () => {
       </Stack.Navigator>
     </NavigationContainer>
   );
-};
+}
 
 export default MainNavigation;

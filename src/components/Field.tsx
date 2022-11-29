@@ -11,7 +11,7 @@ export default ({ onRemove, ...props }: any) => <View style={style.wrapper}>
     <View style={{ flex: 1 }}>
     <TextField {...props} style={style.text} />
     </View>
-    <Typo style={style.type}>TEXT</Typo>
+    <Typo style={style.type}>{props.type}</Typo>
     <TouchableOpacity onPress={() => onRemove()} style={style.delete}>
         <Icon name={'trash'} size={20} color={'#3d5afe'} />
     </TouchableOpacity>

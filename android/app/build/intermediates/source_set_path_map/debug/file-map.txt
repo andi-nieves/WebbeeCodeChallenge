@@ -30,9 +30,11 @@ com.reactnativetypescriptboilerplate.app-mergeDebugResources-28 C:\Users\andif\W
 com.reactnativetypescriptboilerplate.app-merged_res-29 C:\Users\andif\Workspace\WebbeeCodeChallenge\android\app\build\intermediates\merged_res\debug
 com.reactnativetypescriptboilerplate.app-debug-30 C:\Users\andif\Workspace\WebbeeCodeChallenge\android\app\src\debug\res
 com.reactnativetypescriptboilerplate.app-main-31 C:\Users\andif\Workspace\WebbeeCodeChallenge\android\app\src\main\res
-com.reactnativetypescriptboilerplate.app-packaged_res-32 C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\@react-native-masked-view\masked-view\android\build\intermediates\packaged_res\debug
-com.reactnativetypescriptboilerplate.app-packaged_res-33 C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\react-native-gesture-handler\android\build\intermediates\packaged_res\debug
-com.reactnativetypescriptboilerplate.app-packaged_res-34 C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\react-native-pager-view\android\build\intermediates\packaged_res\debug
-com.reactnativetypescriptboilerplate.app-packaged_res-35 C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\debug
-com.reactnativetypescriptboilerplate.app-packaged_res-36 C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\react-native-screens\android\build\intermediates\packaged_res\debug
-com.reactnativetypescriptboilerplate.app-packaged_res-37 C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\react-native-vector-icons\android\build\intermediates\packaged_res\debug
+com.reactnativetypescriptboilerplate.app-packaged_res-32 C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\packaged_res\debug
+com.reactnativetypescriptboilerplate.app-packaged_res-33 C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\@react-native-community\datetimepicker\android\build\intermediates\packaged_res\debug
+com.reactnativetypescriptboilerplate.app-packaged_res-34 C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\@react-native-masked-view\masked-view\android\build\intermediates\packaged_res\debug
+com.reactnativetypescriptboilerplate.app-packaged_res-35 C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\react-native-gesture-handler\android\build\intermediates\packaged_res\debug
+com.reactnativetypescriptboilerplate.app-packaged_res-36 C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\react-native-pager-view\android\build\intermediates\packaged_res\debug
+com.reactnativetypescriptboilerplate.app-packaged_res-37 C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\debug
+com.reactnativetypescriptboilerplate.app-packaged_res-38 C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\react-native-screens\android\build\intermediates\packaged_res\debug
+com.reactnativetypescriptboilerplate.app-packaged_res-39 C:\Users\andif\Workspace\WebbeeCodeChallenge\node_modules\react-native-vector-icons\android\build\intermediates\packaged_res\debug

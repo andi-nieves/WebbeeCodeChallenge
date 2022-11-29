@@ -2,10 +2,4 @@
 import React from 'react'
 import { Text, StyleSheet } from 'react-native'
 
-export default ({ children, style,...props }: any) => <Text {...props} style={{ ...defStyle.text, ...style}}>{children}</Text>
-
-const defStyle = StyleSheet.create({
-    text: {
-        color: '#333'
-    }
-  });
+export default ({ children, color="#333", fontSize = 14, fontWeight, style,...props }: any) => <Text {...props} style={{ fontSize, fontWeight, color, ...style}}>{children}</Text>
