@@ -22,7 +22,6 @@ const categoriesSlice = createSlice({
         let newData = {
           ...category,
           data: [
-            ...data,
             {
               id: category.lastId++ || 0,
               fields: newField
